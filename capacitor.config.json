@@ -1,0 +1,18 @@
+
+{
+  "appId": "app.lovable.b2419c0c2bf544369e2cebaf678f0ff8",
+  "appName": "purepix",
+  "server": {
+    "url": "",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}
